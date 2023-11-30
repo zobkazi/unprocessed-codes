@@ -1,85 +1,109 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<br />
 
 <p align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04FF3C&center=true&width=435&lines=Hi%2C+I+am+Zobaidul+Kazi;+Full+Stack+JavaScript+Developer+" alt="Typing SVG" /></a> <p/>
 
+<br />
+<h3 style="color:#00d4ff; padding: 30px; font-size:20px;"> 
+I am a full-stack developer who can help you build and maintain both the front-end and back-end of a website,
+</h3>
 
+<!-- # Languages and Tools:
 
-<!-- ```Python
+```javascript
+
 frontEnd = {
-            js: ["Jquery","React.js"],
-            css: ["materialize", "bootstrap"]
-          }
+            js: ["React.js","react-redux"],
+            css: ["materialize", "bootstrap", ""]
+          },
 backEnd: {
-            python: ["Django","DRF"]
-            Golang, AWS
-        }
-databases: ["MySql"],
+            NodeJS: ["express","hipy"]
+            , AWS
+        },
+databases: ["MongoDB, MySQL"],
 
-code: ["Python","Javascript", "Golang"],
+code: ["JavaScript"],
+
+tools: ["Postman", "Figma", "Cnava"]
 
 ``` -->
 
+# 👍Connect with me
 
+<p>
 
-# 👍Connect with me 
-<p >
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobaidulkazi/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobaidul-kazi-aa7a9323a/)
-<p>	<a href="mailto:zobaidulkazi64.official@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zobaidulkazi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zobaidulkazi/)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zobaidulkazi64.official)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zobaidul_kazi/)
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/md_maruf_sarker)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zobaidul_Kazi)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zobaidul_kazi)
-[![](https://visitcount.itsvg.in/api?id=mdmarufsarker&icon=0&color=0)](https://visitcount.itsvg.in)</p>
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zobaidulkazi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zobaidulkazi)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zobaidulkazi)
+[![](https://visitcount.itsvg.in/api?id=zobaidulkazi&icon=0&color=0)](https://visitcount.itsvg.in)</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 <p>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdmarufsarker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=calvince alt=rahuldkjain/> </p>
- 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobaidulkazi&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zobaidulkazi64&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zobaidulkazi64&layout=compact&langs_count=8&theme=algolia"/>
 
 </p>
-<!-- Add Pro -->
-<p> 
-
+<!-- Add Profile -->
+<p>
 
 ## 🛠️ My Skills
 
+&emsp;
+
 ### 👉 Programming languages
 
-<p align="center"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-   
-</p>
-
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+ <p align="">
+  <a href="https://www.w3schools.com/js/default.asp">
+    <img src="https://skillicons.dev/icons?i=js,,ts," />
   </a>
 </p>
 
- ### 👉 Software & Tools
- 
-<p align="center">
+### 👉 Frontend Development
+
+&emsp;
+
+ <p align="">
+  <a href="https://www.w3schools.com/js/default.asp">
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,redis,redux,remix,threejs,tailwind,materialui,html,css" />
+  </a>
+</p>
+
+&emsp;
+
+### 👉 Backend Development
+
+&emsp;
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,deno,express,nest" />
+  </a>
+</p>
+
+### 👉 Databases Management System
+
+&emsp;
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres" />
+  </a>
+</p>
+
+&emsp;
+
+### 👉 Software & Tools
+
+<!-- <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -95,54 +119,58 @@ code: ["Python","Javascript", "Golang"],
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
+  &emsp; -->
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+<p align="">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman," />
+  </a>
+</p>
+
+&emsp;
+
+### 👉 IDEs
+&emsp;
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,,codepen,,vim" />
+  </a>
+</p>
+
+&emsp;
+# 👉 Operating Systems && CMS
+
+&emsp;
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,wordpress,webflow" />
+  </a>
 </p>
 
 
-# 👉 Operating Systems
- 
+&emsp;
 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
 
-</p>
+---
 
-<br />
-
----------------------------------------------------------------------------------------------------------------------------
-
-# Update Date: 27,01,2023
+&emsp;
 
 <details>
   <summary>📃 &nbsp;Educational Background</summary>
 
 ## Education
 
-
 - 📖 **&nbsp;Diploma In Engineering**\
-📆 &nbsp;2019 - 2023\
-📍 **&nbsp; Mymensingh Polytechnic Institute** - Mymensingh,Bangladesh
-
-
+  📆 &nbsp;2019 - 2023\
+  📍 **&nbsp; Mymensingh Polytechnic Institute** - Mymensingh,Bangladesh
 
 - 📖 **&nbsp;SSC**\
-📆 &nbsp;2017 - 2018\
-📍 **&nbsp;Ulipur,Kurigram** - Kurigram,Rongpur 
+  📆 &nbsp;2017 - 2018\
+  📍 **&nbsp;Ulipur,Kurigram** - Kurigram,Rongpur
 
+\_\_
 
+# Update Date: new Date()
 
-
-
-__
-
+---
