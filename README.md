@@ -62,7 +62,7 @@ tools: ["Postman", "Figma", "Cnava"]
 ### 👉 Programming languages
 
  <p align="">
-  <a href="https://www.w3schools.com/js/default.asp">
+  <a href="/">
     <img src="https://skillicons.dev/icons?i=js,,ts," />
   </a>
 </p>
@@ -72,8 +72,8 @@ tools: ["Postman", "Figma", "Cnava"]
 &emsp;
 
  <p align="">
-  <a href="https://www.w3schools.com/js/default.asp">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,redis,redux,remix,threejs,tailwind,materialui,html,css" />
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@ tools: ["Postman", "Figma", "Cnava"]
 &emsp;
 
 <p align="">
-  <a href="https://skillicons.dev">
+  <a href="/">
     <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres" />
   </a>
 </p>
