@@ -1,0 +1,19 @@
+{
+  "name": "unprocessed-codes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/index.js",
+    "build": "node ./src/index.js",
+    "test": "ts"
+  },
+  "repository": "https://github.com/zobkazi/unprocessed-codes",
+  "author": "Zobaidul Kazi <105772384+zobkazi@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5",
+    "morgan": "^1.10.0"
+  }
+}
